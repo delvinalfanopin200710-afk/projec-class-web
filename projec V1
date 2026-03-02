@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta charset="UTC-8">
+  <title>Website kelas 10E</title>
+</head>
+<body>
+  <h1>Portal Resmi Kelas 10E</h1L>
+  <p>Selamat Datang Di Website Kelas Kami</p>
+  <hr>
+  <h2>Daftar Anggota Kelas</h2>
+  <ol>
+    <li>aditya</li>
+    <li>amirul</li>
+    <li>antonius</li>    
+  </ol>
+  <button><b>masuk</b></button>
+  <h2>Jawaban untuk soal tambahan</h2>
+  <hr>
+  <ol>
+  <p><b><li>kenapa pakai h1 untuk judul bukan p?</li></b></p>
+  <br>
+  <p>itu karena tampilan h1 itu besar dan namanya juga heading pertama ya emg untuk judul fungisnya</p>
+  <p>bayangkan judul pakai p trus isi pakai h1 jadi gini dong </p>
+  <p><i>Website Kelas 10E</i></p>
+  <h1><i>Selamat datang di website kelas kami</i></h1>
+  <hr>
+  <p>kan jadi lucu keliatannya</p>
+  <hr>
+    <p><b><li>Kenapa kita pakai ul atau ol ?</li></b></p>
+    <p><i>itu karena ul memberi perintah kepada browser untuk menampilkna urutan barang <b>bukan dengan Nomor</b></i></p>
+    <br>
+    <p><i>perbedaan dengan ol ialah,ol memberikan perinah kepada browser untuk menampilkan urutan data <b>dengan nomor</b></i></p>
+</body>
+</html>

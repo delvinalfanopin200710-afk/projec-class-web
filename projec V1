@@ -2,35 +2,67 @@
 
 <html>
 <head>
-  <meta charset="UTC-8">
+  <meta charset="UTF-8">
   <title>Website kelas 10E</title>
 </head>
 <body>
-  <h1>Portal Resmi Kelas 10E</h1L>
+  <header>
+  <h1>Portal Resmi Kelas 10E</h1>
   <p>Selamat Datang Di Website Kelas Kami</p>
   <hr>
+  </header>
+  <section>
   <h2>Daftar Anggota Kelas</h2>
+  <hr>
   <ol>
-    <li>aditya</li>
-    <li>amirul</li>
-    <li>antonius</li>    
+    <li>Aditya</li>
+    <li>Amirul</li>
+    <li>Antonius</li> 
+    <li>Aurel Delisa</li>
+    <li>Bilqis Aulia</li>
+    <li>Cherry Agrecia Erly</li>
+    <li>Christian Gabriel</li>
+    <li>Debby Oscar Riyanda</li>
+    <li>Delvin Alfano</li>
+    <li>Dina Septiangel Carelin</li>
+    <li>Dini Penangsi</li>
+    <li>Fanessa Nindy</li>
+    <li>Fhilia Frisi Natalie</li>
+    <li>Gideon Marvin Elvian</li>
+    <li>Hammi Fattah Suhada</li>
+    <li>Imell</li>
+    <li>Kaeyza</li>
+    <li>Kheya Benarta</li>
+    <li>Luri Wahyudi</li>
+    <li>Muhammad Aldiansyah</li>
+    <li>Muhammad Dani Buchairi</li>
+    <li>Muhammad Nizam Alfazri</li>
+    <li>Nesa</li>
+    <li>Nurcinta</li>
+    <li>Nadya</li>
+    <li>Permadi albuchori</li>
+    <li>Rehan</li>
+    <li>Rafa Zachrie</li>
+    <li>Rio Saputra</li>
+    <li>Safarina</li>
+    <li>Sapta Mulyadi</li>
+    <li>Sherlita</li>
+    <li>Syafira</li>
+    <li>Tiara</li>
+    <li>Yeni</li>
+    <li>Valie Frisi Astian</li>
   </ol>
-  <button><b>masuk</b></button>
-  <h2>Jawaban untuk soal tambahan</h2>
-  <hr>
-  <ol>
-  <p><b><li>kenapa pakai h1 untuk judul bukan p?</li></b></p>
-  <br>
-  <p>itu karena tampilan h1 itu besar dan namanya juga heading pertama ya emg untuk judul fungisnya</p>
-  <p>bayangkan judul pakai p trus isi pakai h1 jadi gini dong </p>
-  <p><i>Website Kelas 10E</i></p>
-  <h1><i>Selamat datang di website kelas kami</i></h1>
-  <hr>
-  <p>kan jadi lucu keliatannya</p>
-  <hr>
-    <p><b><li>Kenapa kita pakai ul atau ol ?</li></b></p>
-    <p><i>itu karena ul memberi perintah kepada browser untuk menampilkna urutan barang <b>bukan dengan Nomor</b></i></p>
-    <br>
-    <p><i>perbedaan dengan ol ialah,ol memberikan perinah kepada browser untuk menampilkan urutan data <b>dengan nomor</b></i></p>
-</body>
+  </section>
+  <section>
+    <h2>Informasi Kelas 10E</h2>
+    <p><strong>Wali Kelas:</strong>Bu Novita S.Pd</p>
+    <p><strong>Ketua Kelas:</strong>Delvin Alfano</p>
+    <p><strong>Wakil Ketua Kelas:</strong>Valie Frisi Astian</p>
+  </section>
+  <footer>
+    <hr>
+  <p>Website Ini Dibuat Oleh Seseorang Di Kelas 10E </p>
+  <button>Masuk</button>
+  </footer>
+ </body>
 </html>

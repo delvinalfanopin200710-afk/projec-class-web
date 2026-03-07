@@ -2,7 +2,7 @@
 
 <html>
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1">
   <title>Website kelas 10E</title>
 </head>
 <body>
@@ -14,8 +14,8 @@
       <ul>
         <li><a href="#">Home</a></li>
         <li><a href="#">Kenangan</a></li>
-        <li><a href="#">credit</a></li>
-        <li><a href="Quotes.html">Quotes</a></li>
+        <li><a href="#">Credit</a></li>
+        <li><a href="#quote">Quotes</a></li>
       </ul>
     </nav>
   </header>
@@ -59,11 +59,11 @@
     <li>Syafira</li>
     <li>Tiara</li>
     <li>Yeni</li>
-    <li>Valie Frisi Astian</li
+    <li>Valie Frisi Astian</lI>
   </ol>
+    <hr size= 5>
     <aside>
-      <hr>
-      <p>hari ini ada yang ultah lohhhh</p>
+      <p>inget ya gaisssss ini nama anggota kelas kita </p>
     </aside>
   </section>
   <section>
@@ -72,11 +72,26 @@
     <p><strong>Ketua Kelas:</strong>Delvin Alfano</p>
     <p><strong>Wakil Ketua Kelas:</strong>Valie Frisi Astian</p>
   </section>
+    <hr>
+    <article id=quote align=center>
+      <h3>Quotes</h3>
+      <hr size=0>
+      <blockquote>“Tidak apa-apa untuk merayakan kesuksesan, tapi lebih penting untuk memperhatikan pelajaran tentang kegagalan."</blockquote>
+      <p>-Bill Gates</p>
+      <hr>
+      <blockquote>"Seribu orang tua bisa bermimpi, satu orang pemuda bisa mengubah dunia.”</blockquote>
+      <p>– Soekarno</p>
+      <hr>
+      <blockquote>“Pendidikan adalah senjata paling ampuh untuk mengubah dunia."</blockquote>
+      <p>- Nelson Mandela</p>
+      <hr>
+      <blockquote>“Usaha dan keberanian tidak cukup tanpa tujuan dan arah perencanaan.”</blockquote>
+      <p>- John F.Kennedy</p>
+    </article>
   </main>
   <footer>
     <hr>
   <p>Website Ini Dibuat Oleh Seseorang Di Kelas 10E </p>
-  <button>Masuk</button>
   </footer>
  </body>
 </html>

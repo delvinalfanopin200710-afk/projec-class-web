@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+
+    
+   <!DOCTYPE html>
 
 <html>
 <head>
@@ -112,7 +114,7 @@
     </form><br>
     <aside>disclamer tuu tombol ga guna masih karena ak masih belajar HTML blum masok back end </aside><br>
     <hr>
-    <table align=center border="1">
+    <table width=100% align=center border="1" id=jadwal>
       <tr>
         <th>
           Hari
@@ -121,11 +123,25 @@
       </tr>
       <tr>
         <td>Senin</td>
-          <td>Fisika</td>
-          <td>Fisika </td>
+          <td align="center">
+            <strong>Fisika<br>Fisika<br>Fisika</strong>
+              <hr>Istirahat<hr>
+            <strong>Mulok<br>Agama</strong>
+            <hr>Istirahat<hr>
+            <strong>Agama<br>B.Indo<br>PJOK<br>BK</strong>
+            <hr>Pulang<hr>
+          </td>
       </tr>
       <tr>
-        <td>Selasa</td>
+        <td align="center">Selasa</td>
+        <td>
+          <strong>Matematika<br>Matematika<br>PJOK<br>PJOK</strong>
+              <hr>Istirahat<hr>
+            <strong>B.Inggris<br>B.Inggris</strong>
+            <hr>Istirahat<hr>
+            <strong>Ekonomi<br>Ekonomi<br>Sejarah Indo<br>Sejarah Indo</strong>
+            <hr>Pulang<hr>
+        </td>
       </tr>
       <tr>
         <td>Rabu</td>
@@ -138,7 +154,7 @@
       </tr>
       <tr>
         <td>Sabtu</td>
-        <td>NYARI APA KOCAKKKK AOWKOWKOWKKWO SABTU KAU SEKOLAH SORANG BTW HASAN NAPAS MANUAL</td>
+        <td>NYARI A</td>
       </tr>
       <tr>
         <td>Minggu</td>

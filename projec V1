@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html>
 <head>
   <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1">
@@ -6,7 +7,7 @@
 </head>
 <body>
   <header id="atas">
-  <h1>Portal Resmi Kelas 10E</h1>
+  <h1>Web Kelas 10E</h1>
   <p>Selamat Datang Di Website Kelas Kami</p>
   <hr>
     <nav>
@@ -27,7 +28,7 @@
     <li>Aditya</li>
     <li>Amirul</li>
     <li>Antonius</li> 
-    <li>Aurel Delisa</li>
+    <li>Aurel Delisa Al Tafunisyah</li>
     <li>Bilqis Aulia</li>
     <li>Cherry Agrecia Erly</li>
     <li>Christian Gabriel</li>
@@ -40,20 +41,20 @@
     <li>Gideon Marvin Elvian</li>
     <li>Hammi Fattah Suhada</li>
     <li>Imell</li>
-    <li>Kaeyza</li>
+    <li>Kaeyza Ulya Nazzura</li>
     <li>Kheya Benarta</li>
     <li>Luri Wahyudi</li>
     <li>Muhammad Aldiansyah</li>
     <li>Muhammad Dani Buchairi</li>
     <li>Muhammad Nizam Alfazri</li>
-    <li>Nesa</li>
+    <li>Nesa Anggraini</li>
     <li>Nurcinta</li>
-    <li>Nadya</li>
-    <li>Permadi Albuchori</li>
+    <li>Nadya Sri Darmawati</li>
+    <li>Permadi Albuhari</li>
     <li>Rehan</li>
     <li>Rafa Zachrie</li>
-    <li>Rio Saputra</li>
-    <li>Safarina</li>
+    <li>Rio Saputa</li>
+    <li>Safarina Febriani</li>
     <li>Sapta Mulyadi</li>
     <li>Sherlita</li>
     <li>Syafira</li>
@@ -61,10 +62,10 @@
     <li>Yeni</li>
     <li>Valie Frisi Astian</lI>
   </ol>
-    <p align=right><a href=#atas>Balik ke atas</a></p>
     <aside>
       <p>inget ya gaisssss ini nama anggota kelas kita </p>
     </aside>
+    <p align=right><a href=#atas>Balik ke atas</a></p>
     <hr>
   </section>
   <section>
@@ -107,11 +108,11 @@
          <label for="desk">saran untuk dev ini:</label><br>
          <textarea id="desk" name="desk" rows=5 cols=50></textarea><br>
          <button type="submit">Submit</button><br>
-         <p align=right><a href=#atas>Balik ke atas</a></p>
     </form><br>
     <aside>disclamer tuu tombol ga guna masih karena ak masih belajar HTML blum masok back end </aside><br>
+     <p align=right><a href=#atas>Balik ke atas</a></p>
     <hr>
-    <table width=100% align=center border="1" id=jadwal>
+    <table align=center border="1" width="100%" id="jadwal">
       <tr>
         <th>
           Hari
@@ -119,10 +120,10 @@
         <th>Pelajaran</th>
       </tr>
       <tr>
-        <td>Senin</td>
+        <td align="center">Senin</td>
           <td align="center">
-            <strong>Fisika<br>Fisika<br>Fisika</strong>
-              <hr>Istirahat<hr>
+            <strong>Fisika<br>Fisika<br>Fisika </strong>
+            <hr>Istirahat<hr>
             <strong>Mulok<br>Agama</strong>
             <hr>Istirahat<hr>
             <strong>Agama<br>B.Indo<br>PJOK<br>BK</strong>
@@ -131,31 +132,49 @@
       </tr>
       <tr>
         <td align="center">Selasa</td>
-        <td>
-          <strong>Matematika<br>Matematika<br>PJOK<br>PJOK</strong>
-              <hr>Istirahat<hr>
-            <strong>B.Inggris<br>B.Inggris</strong>
-            <hr>Istirahat<hr>
-            <strong>Ekonomi<br>Ekonomi<br>Sejarah Indo<br>Sejarah Indo</strong>
-            <hr>Pulang<hr>
+        <td align=center>
+          <strong>MTK<br>MTK<br>PJOK<br>PJOK</strong>
+          <hr>Istirahat<hr>
+          <strong>B.Inggris<br>B.Inggris</strong>
+          <hr>Istirahat<hr>
+          <strong>Ekonomi<br>Ekonomi<br>Sejarah Indo<br>Sejarah Indo</strong>
+          <hr>Pulang<hr>
+          
         </td>
       </tr>
       <tr>
-        <td>Rabu</td>
+        <td align="center">Rabu</td>
+        <td align="center">
+          <strong>Sejarah Indo<br>Biologi<br>Kimia<br>Kimia</strong>
+          <hr>Istirahat<hr>
+          <strong>Ekonomi<br>Geografi</strong>
+          <hr>Istirahat<hr>
+          <strong>Informatika<br>Informatika<br>Matematika<br>Matematika</strong>
+          <hr>pulang<hr>
+</td>
       </tr>
       <tr>
         <td>Kamis</td>
+        <td>
+          <strong>Seni Budaya<br>Seni Budaya<br>Kimia<br>Sosiologi<br></strong>
+          <hr>Istirahat<hr>
+          <strong>Sosiologi<br>Sosiologi><br></strong>
+          <hr>Istirahat<hr>
+          <strong>PPKn<br>PPKn<br>Geografi<br>Geografi</strong>
+          <hr>Pulang<hr>
+        </td>
       </tr>
       <tr>
         <td>Jumat</td>
+        <
       </tr>
       <tr>
         <td>Sabtu</td>
-        <td>NYARI A</td>
+        <td>-</td>
       </tr>
       <tr>
         <td>Minggu</td>
-        <td>Tak de ape ape </td>
+        <td> - </td>
       </tr>
     </table>
   </main>

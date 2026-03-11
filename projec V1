@@ -70,9 +70,7 @@
   </section>
   <section>
     <h2>Informasi Kelas 10E</h2>
-    <p><strong>Wali Kelas:</strong>Bu Novita S.Pd</p>
-    <p><strong>Ketua Kelas:</strong>Delvin Alfano</p>
-    <p><strong>Wakil Ketua Kelas:</strong>Valie Frisi Astian</p>
+    -
     <p align=right><a href=#atas>Balik ke atas</a></p>
   </section>
     <hr>
@@ -93,25 +91,15 @@
       <p align=right><a href=#atas>Balik ke atas</a></p>
     </article><br><br>
     <hr size=5>
-    
+
     <h2 align="center" id=struktur>Struktur Kelas 10E</h2>
     <p> nanti dulu mau pakai foto aja biar gampang</p>
     <p><strong>Tujuan Website ini dibuat ialah untuk membantu saya dalam menentukan proyek apa yang akan saya kerjakan di awal awal ini</strong></p>
     <p align=right><a href=#atas>Balik ke atas</a></p><br><br>
     <hr size=10>
+
+  
     
-    <h2 align=center id=kotaksaran></h2>
-       <form>
-      <label for="nama">Ketik namamu disini:</label><br>
-      <input type="text" id="nama" name="nama"><br><br>
-         
-         <label for="desk">saran untuk dev ini:</label><br>
-         <textarea id="desk" name="desk" rows=5 cols=50></textarea><br>
-         <button type="submit">Submit</button><br>
-    </form><br>
-    <aside>disclamer tuu tombol ga guna masih karena ak masih belajar HTML blum masok back end </aside><br>
-     <p align=right><a href=#atas>Balik ke atas</a></p>
-    <hr>
     <table align=center border="1" width="100%" id="jadwal">
       <tr>
         <th>
@@ -139,7 +127,7 @@
           <hr>Istirahat<hr>
           <strong>Ekonomi<br>Ekonomi<br>Sejarah Indo<br>Sejarah Indo</strong>
           <hr>Pulang<hr>
-          
+
         </td>
       </tr>
       <tr>
@@ -150,12 +138,12 @@
           <strong>Ekonomi<br>Geografi</strong>
           <hr>Istirahat<hr>
           <strong>Informatika<br>Informatika<br>Matematika<br>Matematika</strong>
-          <hr>pulang<hr>
+          <hr>Pulang<hr>
 </td>
       </tr>
       <tr>
-        <td>Kamis</td>
-        <td>
+        <td align=center>Kamis</td>
+        <td align=center>
           <strong>Seni Budaya<br>Seni Budaya<br>Kimia<br>Sosiologi<br></strong>
           <hr>Istirahat<hr>
           <strong>Sosiologi<br>Sosiologi><br></strong>
@@ -165,8 +153,13 @@
         </td>
       </tr>
       <tr>
-        <td>Jumat</td>
-        <
+        <td align=center>Jumat</td>
+        <td align=center>
+          <strong>Biologi<br>Biologi<br>Agama<br>B.Inggris</strong>
+          <hr>Istirahat<hr>
+          <strong>B.Indo<br>B.Indo</strong>
+          <hr>Pulang<hr>
+        </td>
       </tr>
       <tr>
         <td>Sabtu</td>
@@ -177,6 +170,19 @@
         <td> - </td>
       </tr>
     </table>
+    <hr>
+     <h2 align=center id=kotaksaran></h2>
+       <form>
+      <label for="nama">Ketik namamu disini:</label><br>
+      <input type="text" id="nama" name="nama"><br><br>
+
+         <label for="desk">saran untuk dev ini:</label><br>
+         <textarea id="desk" name="desk" rows=5 cols=50></textarea><br>
+         <button type="submit">Submit</button><br>
+    </form><br>
+    <aside>disclamer tuu tombol ga guna masih karena ak masih belajar HTML blum masok back end </aside><br>
+     <p align=right><a href=#atas>Balik ke atas</a></p>
+    <hr>
   </main>
   <footer>
     <hr>
